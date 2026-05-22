@@ -108,8 +108,8 @@ Users can filter data by:
 *Shivani Mishra*
 Aspiring Data Analyst
 
-* LinkedIn: linkedin.com/in/shivani-mishra-0aa006232
-* GitHub: github.com/Shivani-Mishra16
+* [LinkedIn](www.linkedin.com/in/shivani-mishra-0aa006232)
+* [GitHub]([url](https://github.com/Shivani-Mishra16))
 
 ---
 
